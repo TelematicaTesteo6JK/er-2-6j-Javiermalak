@@ -1,0 +1,8 @@
+1.-	
+	https://www.dropbox.com/s/qvrrr0zdv6xl9zq/interfaz.png?dl=0 
+	Interfaz en  el cual requiere ingresar el nombre completo, una CURP valida e indicar su sexo para continuar el registro.
+2.- 
+	a) 8 casos diferentes tal que 2(opciones diferentes)^2(campos diferentes)
+	b) 27 casos diferentes tal que 3(opciones diferentes)^3(campos diferentes)
+3.-
+	Nivel de prueba: integración, porque no es un componente simplemente, pero si testear una interfaz junto con otros componentes no graficos como puede ser si los datos ingresados sean validos o no, pero no se prueba con usuarios u otros modulos del sistema. Por lo que puede considerarse dentro de este nivel.
